@@ -1,0 +1,23 @@
+nav{background:gray; border-bottom:1px solid rgb(78, 75, 75);}
+        h1{font-size:24px; color:steelblue; font-weight:bold; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+        h2{font-size:18px; color: steelblue; font-weight:bold; font-style:italic;}
+        a.navbar-brand,a.navbar-brand:hover,a.navbar-brand:active,a.navbar-brand:visited{height:100%;background:steelblue; color:#FFFFFF; font-weight:bold; padding:10px 10px 10px 10px;}
+        a:hover{color:darkcyan; text-decoration:none;}
+        a{color:navy; text-decoration:none;}
+        a:visited{color:#7EA9FF; text-decoration:none;}
+        a.dropdown-item:hover{background-color:#D4E6F1;}
+        a.dropdown-item{color:darkcyan;}
+        a.nav-link:hover{background-color:#D4E6F1;}
+        a.nav-link{color:midnightblue;}
+        body{background-color:lightslategrey;}
+        div.col{border:none; margin:5px;  text-align:justify;}
+        div.col-active{border:2px solid steelblue; margin:3px;  text-align:justify;}
+        div.container{margin-top:70px; vertical-align: center; text-align:justify;}
+        div.info{padding:30px 60px 60px 60px; margin-bottom:none; border:none;}
+        div.hey{padding:30px; margin-right:1px;bordeR:none}
+        div.viz{padding-top:10px;vertical-align:top;bordeR:none;}
+        div.row{background-color:white; margin:5px; bordeR:none;}
+        th{text-align:left;}
+        th,td{padding:10px;}
+        table{text-align:center;}
+        div.carousel{margin-top: 0px; vertical-align: center; margin: 5px;}
